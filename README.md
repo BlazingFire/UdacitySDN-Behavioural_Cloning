@@ -158,10 +158,10 @@ To capture good driving behavior, I used the full dataset provided as sample and
 
 To augment the data sat, I also flipped images and angles thinking that this would it would remove the left-right bias present in image and give me more data
 
-After the collection process, I had around 40000 number of data points. I then preprocessed this data by by cropping and scaling.
+After the collection process, I had around 40000 number of data points. I then preprocessed this data by by cropping and scaling.  
 
 ![alt text][image4]
-![alt text][image5]
+![alt text][image5]  
 
 I finally randomly shuffled the data set and put 15% of the data into a validation set. 
 
